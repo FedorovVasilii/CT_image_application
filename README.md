@@ -38,4 +38,5 @@ Testing task from CEITEC. Simple image application for CT slices.
 1) [Download .rar file](https://drive.google.com/file/d/1MTD9fo97rsXnN1AhHSzxxtqL1hlpXind/view?usp=sharing)
 2) Unpack to a folder
 3) In folder find "act_ceitec_app.exe"
-4) Start .exe, use input CT image from files
+4) Start .exe
+5) Load input image (you use example CT slice from files on github)
