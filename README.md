@@ -26,6 +26,7 @@ Testing task from CEITEC. Simple image application for CT slices.
   - Setting upper and lower thresholds for histogram by sliders
 - [x] Saving final image
   - Select path and format
+- [x] Compile application into .exe
   
 ## Expected view of the application
 ![software_nahled](https://user-images.githubusercontent.com/62359460/186752396-b89e6a21-8b07-4af7-b67d-5e84f281918d.jpg)
@@ -34,4 +35,4 @@ Testing task from CEITEC. Simple image application for CT slices.
 ![ex](https://user-images.githubusercontent.com/62359460/186752998-62633ef7-2bb9-4776-a4d9-1c17444da272.png)
 
 ## Usage
-1)
+Contact author for .exe file
