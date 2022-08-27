@@ -39,4 +39,4 @@ Testing task from CEITEC. Simple image application for CT slices.
 2) Unpack to a folder
 3) In folder find "act_ceitec_app.exe"
 4) Start .exe
-5) Load input image (you use example CT slice from files on github)
+5) Load input image (you can use example CT slice from files on github)
